@@ -1,0 +1,6 @@
+[submodule "waifu2x"]
+	path = waifu2x
+	url = https://github.com/nagadomi/waifu2x.git
+[submodule "caffe"]
+	path = caffe
+	url = https://github.com/BVLC/caffe.git
